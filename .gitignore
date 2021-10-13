@@ -1,0 +1,10 @@
+# Python compilation files
+__pycache__/
+*.pyc
+
+# Python distribution archives
+dist/
+*.egg-info/
+
+# Python vitural environment
+venv*/
